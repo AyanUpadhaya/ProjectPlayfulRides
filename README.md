@@ -5,7 +5,7 @@
 * For authentication of user we are using firebase
 * For api we are using express js and for server hosting vercel
 * For backend database we are using mongoDB
-* User can sign up or can directly login with gmail authentication
+* User can sign up or can directly login with google authentication
 * After sign up user can see new options like add toy for selling and my toys
 * With add toy form user can create new toy listing
 * In my toys page user can view toys added by the user itself.
